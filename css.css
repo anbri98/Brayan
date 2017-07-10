@@ -1,0 +1,54 @@
+body{
+	background-color: rgb(255,255,218);
+}
+img{
+	width: 200px; height: 200px;
+	border-style:outset;
+	border-width: 5px;
+}
+h1{
+
+	color:pink; 
+	font-size:20px;
+	font-family:arial,fantasy-serif;
+}
+h2{
+	line-height: 90%;
+	color:rgb(120, 36, 155);
+	 font-size:50px;
+	 font-family:arial,fantasy-serif;
+	}
+h3{
+	font-family:arial,sans-serif;
+	color:lightblue;
+}
+#Datos{
+	font-family:arial,sans-serif;
+	background-color:rgb(191,160,232);
+	border-left-color:lightblue; 
+	border-right-color:lightblue;
+	border-style:outset;
+	color:black;
+	border-width: 5px;
+}
+
+#Formacion{
+	font-family:arial,sans-serif;
+	background-color:rgb(255,148,152);
+	border-left-color:lightblue; 
+	border-right-color:lightblue;
+	border-style:outset;
+	border-width: 5px;
+	color:black;
+}
+#Descripcion{
+	font-family:arial,sans-serif;
+	background-color:rgb(159,232,219);
+	border-left-color:lightblue; 
+	border-right-color:lightblue;
+	border-style:outset;
+	color:black;
+    border-width: 5px;
+    float:right;
+    width:80%;
+}
